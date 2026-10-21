@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://myguitarmethod.github.io/Fanorona-landing/sitemap.xml
