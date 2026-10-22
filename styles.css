@@ -9,3 +9,7 @@
 .hero-art:before{inset:0}.orbit-one{inset:6%}.orbit-two{inset:10%}.lead{font-size:16px}.section-heading>p{font-size:15px}.rule-row p{font-size:14px}.character-info>p:last-child{font-size:14px}.learn-copy>p:not(.eyebrow){font-size:14px}.contact-inner>p:not(.eyebrow){font-size:15px}.character-showcase[data-preview=nerissa] .character-image{left:20%}
 @media(max-width:800px){.hero .lead,.section-heading>p,.rule-row p,.learn-copy>p:not(.eyebrow),.character-info>p:last-child{font-size:14px}.character-showcase{min-height:540px}.character-showcase[data-preview=nerissa] .character-image{left:0}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important;animation:none!important}.hero-art>img{transform:rotate(-7deg)}}
+
+/* Return to the MinnyMedia portfolio. */
+.portfolio-bar{border-bottom:1px solid var(--line);font-size:12px}.portfolio-bar>a{display:inline-flex;align-items:center;gap:8px;min-height:44px;color:var(--green);padding-block:10px}.portfolio-bar>a:hover{text-decoration:underline;text-underline-offset:4px}
+.portfolio-return{display:inline-flex;align-items:center;gap:6px;min-height:44px;white-space:nowrap}.footer>div{flex-wrap:wrap}
